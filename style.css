@@ -2,7 +2,7 @@
     width: 200px;
 }
 body{
-    background-color:white;
+    background-color:cornflowerblue;
 }
 .venus{
     width: 200px;
@@ -31,39 +31,61 @@ body{
 .nep{
     font-size: 15px;
 }
-  th, td {
+th, td {
     border: 2px solid black;
     padding: 2px;
-  }
-  .espacio{
-      width: 100%;
-      overflow: auto;
-  }
-  .espi{
-      width: 200px;
-  }
-  .elip{
-      width: 200px;
-  }
-  .irre{
-      width: 200px;
-  }
-  .quas{
-      width: 200px;
-  }
-  .sol{
-      width: 200px;
-  }
-  .boton {
+}
+.espacio{
+    width: 100%;
+    overflow: auto;
+}
+.espi{
+    width: 200px;
+}
+.elip{
+    width: 200px;
+}
+.irre{
+    width: 200px;
+}
+.quas{
+    width: 200px;
+}
+.sol{
+    width: 200px;
+}
+.boton {
     display: inline-block;
     padding: 10px 20px;
     background-color: #007bff;
     color: white;
     text-decoration: none;
     border-radius: 4px;
-  }
+}
 
-  .boton:hover {
+.boton:hover {
     background-color:black;
-  }
+}
+.colored-table {
+    background-color:cadetblue;
+}
+
+.colored-table td {
+    background-color:cadetblue;
+}
+.sa{
+    color:blue;
+}
+.pla{
+    color:black;
+}
+body {
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+}
+img {
+    display: inline-block;
+}
+
  
