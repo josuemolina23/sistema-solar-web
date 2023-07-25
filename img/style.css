@@ -87,5 +87,9 @@ body {
 img {
     display: inline-block;
 }
-
- 
+body{
+    background-image: url(oo.jpg);
+    background-size: cover;
+    background-repeat: no-repe;
+     
+}
